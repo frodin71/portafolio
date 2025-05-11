@@ -1,4 +1,0 @@
-import { jsx as _jsx, jsxs as _jsxs } from "react/jsx-runtime";
-export default function Contact() {
-    return (_jsxs("section", { id: "contact", className: "min-h-screen px-6 py-24", children: [_jsx("h2", { className: "text-4xl font-bold mb-8 text-center text-gray-800", children: "Contacto" }), _jsx("p", { className: "text-center text-lg text-gray-600 mb-8", children: "\u00A1Hablemos! Puedes escribirme o seguirme en mis redes." }), _jsxs("div", { className: "flex justify-center space-x-8", children: [_jsx("a", { href: "https://www.linkedin.com/in/tu-perfil", target: "_blank", className: "bg-blue-600 text-white px-6 py-3 rounded-lg hover:bg-blue-700 transition-all", children: "LinkedIn" }), _jsx("a", { href: "https://www.instagram.com/tuusuario", target: "_blank", className: "bg-pink-500 text-white px-6 py-3 rounded-lg hover:bg-pink-600 transition-all", children: "Instagram" })] })] }));
-}
