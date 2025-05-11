@@ -11,6 +11,6 @@
     "forceConsistentCasingInFileNames": true,
     "jsx": "react-jsx"
   },
-  "include": ["src", "src2/components/ContactSection.tsx", "src2/components/FilterProjects.tsx", "src2/components/Header.tsx", "src2/components/ProjectCard.tsx", "src2/components/ProjectsGrid.tsx", "src2/components/SocialIcons.tsx", "src2/components/ThemeToggle.tsx"],
+  "include": ["src", "src/components/ContactSection.tsx", "src/components/FilterProjects.tsx", "src/components/Header.tsx", "src/components/ProjectCard.tsx", "src/components/ProjectsGrid.tsx", "src/components/SocialIcons.tsx", "src/components/ThemeToggle.tsx"],
   "exclude": ["node_modules"]
 }
